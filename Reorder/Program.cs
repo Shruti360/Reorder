@@ -11,6 +11,7 @@ namespace Reorder
 			Console.WriteLine("Second commit");
 			Console.WriteLine("Third commit");
 			Console.WriteLine("Fourth commit");
+			Console.WriteLine("5th commit");
 		}
 	}
 }
