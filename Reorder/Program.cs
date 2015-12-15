@@ -14,5 +14,10 @@ namespace Reorder
 			Console.WriteLine ("5th commit");
 			Console.WriteLine ("6th commit");
 		}
+
+		public void Test ()
+		{
+			Console.WriteLine ("7th commit");
+		}
 	}
 }
