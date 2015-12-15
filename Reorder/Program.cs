@@ -25,6 +25,7 @@ namespace Reorder
 		public void Test2 ()
 		{
 			Console.WriteLine ("10th commit");		
+			Console.WriteLine ("11th commit");		
 		}
 	}
 }
