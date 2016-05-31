@@ -35,6 +35,20 @@
   <ItemGroup>
     <Compile Include="Program123.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program123 %28copy%29.cs" />
+    <Compile Include="Program123 %28another copy%29.cs" />
+    <Compile Include="Program123 %283rd copy%29.cs" />
+    <Compile Include="Program123 %284th copy%29.cs" />
+    <Compile Include="Program123 %285th copy%29.cs" />
+    <Compile Include="Program123 %286th copy%29.cs" />
+    <Compile Include="Program123 %287th copy%29.cs" />
+    <Compile Include="Program123 %288th copy%29.cs" />
+    <Compile Include="Program123 %289th copy%29.cs" />
+    <Compile Include="Program123 %28copy 10%29.cs" />
+    <Compile Include="Program123 %28copy 11%29.cs" />
+    <Compile Include="Program123 %28copy 12%29.cs" />
+    <Compile Include="Program123 %28copy 13%29.cs" />
+    <Compile Include="Program123 %28copy 14%29.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
